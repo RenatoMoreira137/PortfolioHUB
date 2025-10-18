@@ -16,13 +16,6 @@ Atualmente, estou desenvolvendo minhas habilidades em programação e desenvolvi
 
 ---
 
-## Estrutura do Repositório
-- `/projetos` → códigos e exercícios desenvolvidos durante o curso  
-- `/documentos` → PDFs, relatórios e materiais de apoio  
-- `/imagens` → capturas de tela, logotipos e elementos visuais  
-
----
-
 ## Tecnologias usadas
 - Java  
 - GitHub  
