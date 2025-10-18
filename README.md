@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu portfólio de projetos desenvolvido durante o **Bootcamp**!
 
 ## Sobre mim
 Sou estudante de **Engenharia de Software** com interesse em **aprimorar as minhas habilidades de programação**.  
-Atualmente, estou aprimorando minhas habilidades em programação e desenvolvimento de sistemas.
+Atualmente, estou desenvolvendo minhas habilidades em programação e desenvolvimento de sistemas.
 
 ---
 
