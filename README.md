@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o <Renato Moreira>
+# Olá, eu sou o <Renato Moreira>
 
 Bem-vindo(a) ao meu portfólio de projetos desenvolvido durante o **Bootcamp**!
 
